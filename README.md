@@ -1,5 +1,13 @@
-## Hi there 👋
+## こんにちは 👋
+## About Me
+- 主に地震系のアプリを作っています
+- HTML,CSS,JavaScriptを学習しています
+- chessやルービックキューブに興味があります
+- よく使うAIはQwen,Zai,ChatGPTです
 
+## 現在取り組んでいること
+- JishinWatchなどを開発中です
+- プログラミング言語を少しずつ学習中です
 <!--
 **26good/26good** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
